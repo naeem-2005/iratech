@@ -1,0 +1,21 @@
+.hero {
+  background: url('../../../assests/image/hero2.png') no-repeat center center;
+  background-size: cover;
+  padding: 100px  200px 300px ;
+  text-align: center;
+  margin-top: 50px;
+  color: #fff;
+}
+
+.hero-content {
+  margin-right: 500px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 24px;
+}

@@ -1,0 +1,161 @@
+.domains-we-work {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .domains-we-work h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .domains-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .domain-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    flex: 1 1 calc(33% - 40px);
+    box-sizing: border-box;
+  }
+  
+  .domain-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .domain-card h3 {
+    font-size: 1.5rem;
+   
+    margin: 15px 0 10px;
+  }
+  
+  .domain-card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .quick-facts {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .quick-facts h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .quick-facts p {
+    font-size: 1.2rem;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .facts {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  .facts h3{
+    color: #f06400;
+    font-size: 2rem;
+  }
+  
+  .facts div {
+    flex: 1;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+   
+    text-align: center;
+  }
+  
+  .facts h3 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .facts p {
+    font-size: 1rem;
+    color: black;
+  }
+  
+  .testimonial {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .testimonial {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .testimonial p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .profiles-container {
+    display: flex;
+    flex-direction: row;
+    width: 300%;
+    overflow: hidden;
+    white-space: nowrap;
+    transition: transform 0.5s ease;
+  }
+  
+  .profile {
+    flex: 0 0 33.33%; 
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .profile h3 {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+  
+  .profile p {
+    font-size: 1rem;
+    color: black;
+  }
+  

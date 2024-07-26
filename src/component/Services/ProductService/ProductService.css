@@ -1,0 +1,130 @@
+.product-service-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 60px;
+  }
+  
+  .product-service-content {
+    flex: 1;
+    padding-left: 20px;
+  }
+  
+  .product-service-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .product-service-content p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .product-service-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .product-service-content li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .product-service-content button {
+    background-color: #f06400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .product-service-content button:hover {
+    background-color: #e05000;
+  }
+  
+  .product-service-image {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .product-service-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .product-consultency {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  .product-consultency-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .product-consultency-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .product-consultency-content p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .product-consultency-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .product-consultency-content li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .product-consultency-content button {
+    background-color: #f06400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .product-consultency-content button:hover {
+    background-color: #e05000;
+  }
+  
+  .product-consultency-image {
+    flex: 1;
+  }
+  
+  .product-consultency-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
